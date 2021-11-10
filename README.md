@@ -18,3 +18,4 @@ git clone https://github.com/naveenanimation20/PageObjectModel
 cd PageObjectModel
 mvn clean test
 ```
+https://github.com/truongtuanphat/qaf-framework-maven/tree/bc48db7788f5ef3feb3d7b8ffff2abe3f7750480
